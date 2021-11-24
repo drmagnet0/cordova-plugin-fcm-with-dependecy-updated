@@ -16,7 +16,7 @@ exports.PLATFORM = {
         dir: IOS_DIR,
         googleServiceDestinations: [
             IOS_DIR + '/' + APP_NAME + '/Resources/GoogleService-Info.plist',
-            IOS_DIR + '/' + APP_NAME + '/Resources/Resources/GoogleService-Info.plist'
+            // IOS_DIR + '/' + APP_NAME + '/Resources/Resources/GoogleService-Info.plist'
         ],
         googleServiceSources: [
             'GoogleService-Info.plist',
